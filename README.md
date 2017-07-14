@@ -1,6 +1,6 @@
 ## String.prototype.padEnd
 
-This a polyfill for the [padStart](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padEnd) function from the ECMAScript 8
+This a polyfill for the [padEnd](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padEnd) function from the ECMAScript 8
 
 ## Why Another One?
 
